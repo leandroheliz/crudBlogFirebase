@@ -27,7 +27,7 @@ window.addEventListener('DOMContentLoaded', async () => {
       <div class="card sinBg">
   <img src="..." class="card-img-top" alt="">
   <div class="card-body">
-    <h5 class="card-title"> <h3>${posteos.titulo}</h3></h5>
+    <h5 class="card-title"><h3>${posteos.titulo}</h3></h5>
     <h6>${posteos.descripcion}</h6>
   </div>
         <div class="card-footer d-flex justify-content-around">
